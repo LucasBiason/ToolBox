@@ -2,11 +2,11 @@ from setuptools import setup
 
 setup(
     name='toolbox',
-    version='1.0.0',
+    version='1.0.1',
     descriptions='Toolbox library for projects',
     author='Lucas Biason',
     packages=[
-        'toolbox', 
+        'toolbox',
     ],
     install_requires=[
         'pycpfcnpj==1.5.1',
