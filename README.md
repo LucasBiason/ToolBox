@@ -1,5 +1,5 @@
 # Validations
 
-Utilidades de Validações e Conversões para utilizar em projetos.
-Conversão de Datas, Formatos 
-Validação de Dados
+Validations and Conversions utilities to use in projects.
+Conversion of Dates, Formats
+Data Validation
